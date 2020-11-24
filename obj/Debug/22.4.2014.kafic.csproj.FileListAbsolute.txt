@@ -1,0 +1,47 @@
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe.config
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.pdb
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csprojResolveAssemblyReference.cache
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.FormPin.resources
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Properties.Resources.resources
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.GenerateResource.Cache
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.CoreCompileInputs.cache
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.exe
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.pdb
+C:\Users\DT User\source\repos\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Konobar.resources
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe.config
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.pdb
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csprojResolveAssemblyReference.cache
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.FormPin.resources
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Konobar.resources
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Properties.Resources.resources
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.GenerateResource.Cache
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.exe
+C:\Users\DT User\Documents\TMP\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.pdb
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe.config
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.pdb
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csprojResolveAssemblyReference.cache
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.FormPin.resources
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Konobar.resources
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Properties.Resources.resources
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.GenerateResource.Cache
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.exe
+C:\Users\DT User\Documents\TMP\rokovi, I kol\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.pdb
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe.config
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.pdb
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csprojAssemblyReference.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.FormPin.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Konobar.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\_22._4._2014.kafic.Properties.Resources.resources
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.GenerateResource.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.csproj.CoreCompileInputs.cache
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.exe
+C:\Users\sbs\Desktop\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.pdb
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\bin\Debug\22.4.2014.kafic.exe.config
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.exe
+D:\Fax\TMP-Zadaci\TPM\TMP rokovi\I kol, rokovi, WAF\22.4.2014.kafic\22.4.2014.kafic\obj\Debug\22.4.2014.kafic.pdb
